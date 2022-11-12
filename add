@@ -5,6 +5,7 @@ set -euo pipefail
 [[ -z "$*" ]] && echo "usage: ./add nazwa potrawy" && exit 1
 
 file="$*"
+file="${file,,}"
 file="${file// /-}"
 
 hugo new "przepis/$file.md"
