@@ -11,15 +11,13 @@ tags: ["zupa grochowa", "grochówka"]
 - 🍳 Czas gotowania: 30 min
 - 🍽️ Liczba porcji: 2 litry zupy
 
-## Składniki
-
-### Składniki na groch
+## Składniki na groch
 
 - 300 g suchego łuskanego grochu
 - 3 szklanki wody
 - sól do smaku
 
-### Składniki na zupę
+## Składniki na zupę
 
 - 1 duża marchew
 - 1 średni korzeń pietruszki 
