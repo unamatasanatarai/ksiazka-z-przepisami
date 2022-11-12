@@ -2,7 +2,6 @@
 title: "Jabłecznik"
 date: 2022-11-12T20:24:38+01:00
 tags: ["przepis"]
-draft: true
 ---
 
 # Przepis na Jabłecznik

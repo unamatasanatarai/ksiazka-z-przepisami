@@ -2,10 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>github.com/categories/</loc>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/przepis/jablecznik/</loc>
+    <lastmod>2022-11-12T20:24:38+01:00</lastmod>
   </url><url>
-    <loc>github.com/</loc>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/</loc>
+    <lastmod>2022-11-12T20:24:38+01:00</lastmod>
   </url><url>
-    <loc>github.com/tags/</loc>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/przepis/</loc>
+    <lastmod>2022-11-12T20:24:38+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/przepis/</loc>
+    <lastmod>2022-11-12T20:24:38+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/</loc>
+    <lastmod>2022-11-12T20:24:38+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/ciasto/</loc>
+    <lastmod>2022-11-12T20:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/jab%C5%82ko/</loc>
+    <lastmod>2022-11-12T20:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/szarlotka/</loc>
+    <lastmod>2022-11-12T20:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/przepis/szarlotka/</loc>
+    <lastmod>2022-11-12T20:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/wypieki/</loc>
+    <lastmod>2022-11-12T20:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/groch%C3%B3wka/</loc>
+    <lastmod>2022-11-12T16:57:22+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/przepis/grochowka/</loc>
+    <lastmod>2022-11-12T16:57:22+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/zupa-grochowa/</loc>
+    <lastmod>2022-11-12T16:57:22+01:00</lastmod>
+  </url><url>
+    <loc>https://unamatasanatarai.github.io/ksiazka-z-przepisami/categories/</loc>
   </url>
 </urlset>

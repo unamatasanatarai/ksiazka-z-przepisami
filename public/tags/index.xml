@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Książka przepisów</title>
-    <link>github.com/tags/</link>
-    <description>Recent content in Tags on Książka przepisów</description>
+    <title>Tags on Książka z przepisami</title>
+    <link>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/</link>
+    <description>Recent content in Tags on Książka z przepisami</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language><atom:link href="github.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-pl</language>
+    <lastBuildDate>Sat, 12 Nov 2022 20:24:38 +0100</lastBuildDate><atom:link href="https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>przepis</title>
+      <link>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/przepis/</link>
+      <pubDate>Sat, 12 Nov 2022 20:24:38 +0100</pubDate>
+      
+      <guid>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/przepis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ciasto</title>
+      <link>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/ciasto/</link>
+      <pubDate>Sat, 12 Nov 2022 20:00:44 +0100</pubDate>
+      
+      <guid>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/ciasto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jabłko</title>
+      <link>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/jab%C5%82ko/</link>
+      <pubDate>Sat, 12 Nov 2022 20:00:44 +0100</pubDate>
+      
+      <guid>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/jab%C5%82ko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>szarlotka</title>
+      <link>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/szarlotka/</link>
+      <pubDate>Sat, 12 Nov 2022 20:00:44 +0100</pubDate>
+      
+      <guid>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/szarlotka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wypieki</title>
+      <link>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/wypieki/</link>
+      <pubDate>Sat, 12 Nov 2022 20:00:44 +0100</pubDate>
+      
+      <guid>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/wypieki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grochówka</title>
+      <link>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/groch%C3%B3wka/</link>
+      <pubDate>Sat, 12 Nov 2022 16:57:22 +0100</pubDate>
+      
+      <guid>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/groch%C3%B3wka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zupa grochowa</title>
+      <link>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/zupa-grochowa/</link>
+      <pubDate>Sat, 12 Nov 2022 16:57:22 +0100</pubDate>
+      
+      <guid>https://unamatasanatarai.github.io/ksiazka-z-przepisami/tags/zupa-grochowa/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
