@@ -11,13 +11,10 @@ draft: true
 - 🍳 Czas gotowania: 30 min
 - 🍽️ Liczba porcji: 4
 
-opis
-
 ## Składniki
 
-- abc
+- ...
 
-## Krok po kroku
+## Przygotowanie
 
-1. a
-2. b
+1. ...

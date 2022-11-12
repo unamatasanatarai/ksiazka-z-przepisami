@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+[[ -z "$*" ]] && echo "usage: ./add nazwa potrawy" && exit 1
+
+file="$*"
+file="${file// /-}"
+
+hugo new "przepis/$file.md"
+exec "$EDITOR" "content/przepis/$file.md"
