@@ -14,9 +14,9 @@ h1, h2, h3{
   padding:0;
 }
 
-h1{ font-size:24px; border-bottom:1px dashed #333; padding-top:15px;}
-h2{ font-size:20px; border-bottom:1px dotted #333; padding-top:10px;}
-h3{ font-size:18px; border-bottom:1px dotted #ccc; padding-top:5px;}
+article h1{ font-size:24px; border-bottom:1px dashed #333; padding-top:15px;}
+article h2{ font-size:20px; border-bottom:1px dotted #333; padding-top:10px;}
+article h3{ font-size:18px; border-bottom:1px dotted #ccc; padding-top:5px;}
 
 header{
   background:url(img/banner.jpeg) no-repeat center center;
@@ -37,6 +37,7 @@ header h1{
   font-weight:100;
   color:#fff;
   text-shadow:1px 1px 1px rgba(30,30,30,.4);
+  font-size:24px;
 }
 
 article{
