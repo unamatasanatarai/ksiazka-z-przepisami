@@ -1,6 +1,6 @@
-baseURL = "github.com"
+baseURL = "https://unamatasanatarai.github.io/ksiazka-z-przepisami"
 languageCode = "pl-pl"
-title = "Książka przepisów"
+title = "Książka z przepisami"
 theme = "przepisy"
 
 [params]
