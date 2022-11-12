@@ -1,0 +1,8 @@
+baseURL = "github.com"
+languageCode = "pl-pl"
+title = "Książka przepisów"
+theme = "przepisy"
+
+[params]
+  stylesheet = "/style.css"
+  indexarticles = 500
