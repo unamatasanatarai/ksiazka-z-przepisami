@@ -1,3 +1,3 @@
 # Przepisy
 
-wip
+https://unamatasanatarai.github.io/ksiazka-z-przepisami/
