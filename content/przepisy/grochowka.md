@@ -6,9 +6,9 @@ tags: ["zupa grochowa", "grochówka"]
 
 # Przepis na Grochówkę
 
-- ⏲️  Czas przygotowania: 1.5 godziny
-- ⏲️  Czas moczenia grochu: 12 godzin
-- 🍳 Cook gotowania: 30 min
+- ⏲️  Czas przygotowania grochu: 12 godzin
+- ⏲️  Czas przygotowania zupy: 1.5 godziny
+- 🍳 Czas gotowania: 30 min
 - 🍽️ Liczba porcji: 2 litry zupy
 
 ## Składniki
@@ -41,7 +41,7 @@ tags: ["zupa grochowa", "grochówka"]
 1. Pokrój cebulę na kostkę,
 1. Pokrój czosnek na płatki,
 1. Boczek, cebulę i czosnek usmaż. Na rozgrzanej patelni, około 10 minut. Pamiętaj - mieszaj,
-1. Pokrój kiełbasę w półkoła,
+1. Pokrój kiełbasę w półkola,
 1. Usmażone składniki i kiełbasę dodaj do garnka,
 1. Wrzuć groch do garnka,
 1. Goduj, aż wzsystko będzie miękkie,

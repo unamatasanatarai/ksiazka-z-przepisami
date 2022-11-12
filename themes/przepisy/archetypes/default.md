@@ -8,7 +8,7 @@ draft: true
 # Przepis na {{ replace .Name "-" " " | title }}
 
 - ⏲️  Czas przygotowania: 10 min
-- 🍳 Cook gotowania: 30 min
+- 🍳 Czas gotowania: 30 min
 - 🍽️ Liczba porcji: 4
 
 opis
