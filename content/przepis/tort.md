@@ -6,9 +6,9 @@ tags: ["przepis", "tort", "babci", "babciny"]
 
 # Przepis na Tort
 
-- ⏲️  Czas przygotowania: 10 min
-- 🍳 Czas gotowania: 30 min
-- 🍽️ Liczba porcji: 4
+- ⏲️  Czas przygotowania: 30 min
+- 🍳 Czas pieczenia: 40 min
+- 🍽️ Liczba porcji: 122
 
 ## Składniki
 
