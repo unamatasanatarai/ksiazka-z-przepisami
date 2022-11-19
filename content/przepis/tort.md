@@ -8,7 +8,7 @@ tags: ["przepis", "tort", "babci", "babciny"]
 
 - ⏲️  Czas przygotowania: 30 min
 - 🍳 Czas pieczenia: 40 min
-- 🍽️ Liczba porcji: 122
+- 🍽️ Liczba porcji: 12
 
 ## Składniki
 
@@ -20,7 +20,7 @@ tags: ["przepis", "tort", "babci", "babciny"]
 - 1 i 1/4 szklanki mąki tortowej
 - 2 łyżeczki proszku do pieczenia
 
-Krem
+### Krem
 
 - 6 jajek
 - 2 szklanki cukru
@@ -30,7 +30,7 @@ Krem
 - 1 łyżka ciemnego kakao
 - 5 łyżek wódki
 
-Do nasączenia
+### Do nasączenia
 
 - 3/4 szklanki przegotowanej wody
 - 1 łyżka cukru
