@@ -2,7 +2,6 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 tags: ["przepis"]
-draft: true
 ---
 
 # Przepis na {{ replace .Name "-" " " | title }}

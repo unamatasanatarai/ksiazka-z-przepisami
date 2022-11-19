@@ -1,8 +1,7 @@
 ---
 title: "Tort"
 date: 2022-11-19T11:28:57+01:00
-tags: ["przepis"]
-draft: true
+tags: ["przepis", "tort", "babci", "babciny"]
 ---
 
 # Przepis na Tort
