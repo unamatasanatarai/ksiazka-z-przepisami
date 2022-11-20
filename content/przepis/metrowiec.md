@@ -84,4 +84,4 @@ takie tam:
 
 1. W ganrku podgrzej śmietankę,
 1. Dodaj rozdrobioną czekoladę,
-1. Mieszaj, aż się zrobi aksamitne.
+1. Mieszaj, aż się zrobi aksamitne.
