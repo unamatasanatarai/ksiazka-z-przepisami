@@ -1,7 +1,7 @@
 ---
 title: "Metrowiec"
 date: 2022-11-20T09:12:56+01:00
-tags: ["przepis", "ciasto", "metrowiec", "ciasto przekładane", "wypieki"]
+tags: ["ciasto", "deser"]
 ---
 
 # Przepis na Metrowiec

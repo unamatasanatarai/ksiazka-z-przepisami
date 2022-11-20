@@ -1,0 +1,5 @@
+<div class="taglist">
+  {{ range .Site.Taxonomies.tags }}
+  <a href="{{.Page.Permalink}}">{{.Page.Title}}</a>
+  {{ end }}
+</div>

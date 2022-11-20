@@ -1,7 +1,7 @@
 ---
 title: "Szarlotka"
 date: 2022-11-12T20:00:44+01:00
-tags: ["ciasto", "szarlotka", "jabłko", "wypieki"]
+tags: ["ciasto", "deser"]
 ---
 
 # Przepis na Szarlotkę

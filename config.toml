@@ -1,5 +1,6 @@
 baseURL = "https://unamatasanatarai.github.io/ksiazka-z-przepisami"
 languageCode = "pl-pl"
+defaultContentLanguage = "pl"
 title = "Książka z przepisami"
 theme = "przepisy"
 

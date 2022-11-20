@@ -4,6 +4,17 @@ description: "Książka z przepisami, bez reklam, sam tekst i zdjęcia"
 layout: single
 ---
 
-## Nasze przepisy
+## Przepisy
+
+---
 
 {{< artlist >}}
+
+---
+
+## Kategorie
+
+{{< taglist >}}
+
+---
+

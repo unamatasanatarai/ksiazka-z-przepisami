@@ -1,7 +1,7 @@
 ---
 title: "Grochówka"
 date: 2022-11-12T16:57:22+01:00
-tags: ["zupa grochowa", "grochówka"]
+tags: ["zupa", "obiad"]
 ---
 
 # Przepis na Grochówkę
