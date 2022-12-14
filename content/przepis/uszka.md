@@ -1,7 +1,7 @@
 ---
 title: "Uszka"
 date: 2022-12-14T19:34:12+01:00
-tags: ["przepis"]
+tags: ["obiad"]
 ---
 
 # Przepis na Uszka
