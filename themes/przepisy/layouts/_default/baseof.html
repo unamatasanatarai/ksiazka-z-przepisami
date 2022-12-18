@@ -35,7 +35,7 @@
     {{ if not .PublishDate.IsZero }}
       {{ .PublishDate.Format "02-01-2006" }} :
     {{ end }}
-    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }} : {{ .Site.BaseURL }}</a>
+    {{ .Site.Title }} : {{ .Site.BaseURL }}
   </footer>
 </body>
 
