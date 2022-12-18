@@ -42,7 +42,7 @@ tags: ["obiad"]
 
 ## Jak Perogi?
 
-### 1. Sklanką
+### 1. Szklanką
 
 1. Rozwałkuj ciasto,
 1. Szklanka wycinaj koła,
