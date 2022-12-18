@@ -31,9 +31,9 @@ tags: ["obiad"]
 
 ### Ciasto
 
-1. Ugotuj wodę,
-1. Do miski wrzuć wszystkie składniki,
-1. Ugniataj,
+1. Ugotuj wodę, niech będzie ciepła/gorąca,
+1. Do miski wrzuć wszystkie składniki (wraz z ugotowaną ciepłą wodą),
+1. Ugniataj, aż ciasto stanie się elastyczne,
 1. Odstaw, niech ciasto _odpocznie_.
 
 ### Farsz

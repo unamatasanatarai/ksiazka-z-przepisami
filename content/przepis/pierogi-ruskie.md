@@ -38,7 +38,7 @@ tags: ["obiad"]
 
 ### Ciasto
 
-1. Wszystkie składniki zmieszaj ze sobą aż będą elastyczne.
+1. Wszystkie składniki zmieszaj ze sobą, aż będzie ciasto elastyczne.
 
 ## Jak Perogi?
 
