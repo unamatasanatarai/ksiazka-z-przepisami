@@ -40,7 +40,7 @@ tags: ["obiad"]
 
 1. Wszystkie składniki zmieszaj ze sobą, aż będzie ciasto elastyczne.
 
-## Jak Perogi?
+## Jak Pierogi?
 
 ### 1. Szklanką
 
