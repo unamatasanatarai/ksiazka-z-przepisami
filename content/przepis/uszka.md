@@ -16,7 +16,7 @@ tags: ["obiad"]
 
 - 2 szklanki mąki
 - 2/3 szklanki wody
-- 2 łyżki oleju
+- 2 łyżki masła (lub oleju)
 - sól (szczypta, lub 4)
 
 ### Składniki na farsz do uszek
@@ -42,6 +42,9 @@ tags: ["obiad"]
 1. Odstaw na godzinę (a najlepiej całą noc), niech się moczą,
 1. Gotuj grzyby przez 20 minut,
 1. Po ugotowaniu, wodę odstaw na bok (może się przydać do np. barszczu),
+1. Cebulę drobno posiekaj,
+1. Wrzuć na rozgrzaną patelnię,
+1. Smaż przez kilka minut,
 1. Ugotowane grzyby drobno pokrój,
 1. Dodaj przyprawy,
 1. Wszystko podsmażaj przez parę minut, i mieszaj,
