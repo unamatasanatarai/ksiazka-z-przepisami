@@ -12,7 +12,7 @@ tags: ["obiad"]
 
 ## Składniki
 
-- rosół [rosół]({{< relref "rosół.md" >}}),
+- rosół [rosół]({{< relref "rosol.md" >}}),
 - 1/2 kg ogórków kiszonych, grubo krojonych,
 - 3 ziemniaki,
 - 1/3 szklanki śmietanki 30%,

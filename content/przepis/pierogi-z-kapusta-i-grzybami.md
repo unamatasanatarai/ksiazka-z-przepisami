@@ -1,10 +1,10 @@
 ---
-title: "Pierogi Z Kapustą i Grzybami"
+title: "Pierogi z Kapustą i Grzybami"
 date: 2022-12-19T13:04:34+01:00
 tags: ["obiad", "święta"]
 ---
 
-# Przepis na Pierogi Z Kapustą i Grzybami
+# Przepis na Pierogi z Kapustą i Grzybami
 
 - ⏲️  Czas przygotowania: 2 godziny
 - 🍳 Czas gotowania: 6-15 minut
