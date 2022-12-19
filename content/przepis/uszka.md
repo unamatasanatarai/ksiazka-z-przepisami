@@ -32,22 +32,22 @@ tags: ["obiad"]
 ### Ciasto
 
 1. Ugotuj wodę, niech będzie ciepła/gorąca,
-1. Do miski wrzuć wszystkie składniki (wraz z ugotowaną ciepłą wodą),
-1. Ugniataj, aż ciasto stanie się elastyczne,
+1. Do miski wrzuć wszystkie składniki (wraz z ugotowaną ciepłą wodą),
+1. Ugniataj, aż ciasto stanie się elastyczne,
 1. Odstaw, niech ciasto _odpocznie_.
 
 ### Farsz
 
 1. Grzyby włóż do wody,
-1. Odstaw na godzinę (a najlepiej całą noc), niech się moczą,
+1. Odstaw na godzinę (a najlepiej całą noc), niech się moczą,
 1. Gotuj grzyby przez 20 minut,
-1. Po ugotowaniu, wodę odstaw na bok (może się przydać do np. barszczu),
-1. Cebulę drobno posiekaj,
-1. Wrzuć na rozgrzaną patelnię,
+1. Po ugotowaniu, wodę odstaw na bok (może się przydać do np. barszczu),
+1. Cebulę drobno posiekaj,
+1. Wrzuć na rozgrzaną patelnię,
 1. Smaż przez kilka minut,
 1. Ugotowane grzyby drobno pokrój,
 1. Dodaj przyprawy,
-1. Wszystko podsmażaj przez parę minut, i mieszaj,
+1. Wszystko podsmażaj przez parę minut, i mieszaj,
 1. Odstaw do ostudzenia,
 1. Po ostudzeniu, dodaj żółtko.
 
