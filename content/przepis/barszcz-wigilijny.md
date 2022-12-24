@@ -12,7 +12,7 @@ tags: ["obiad", "święta"]
 
 ## Składniki
 
-- 40 g suszonych grzybów (garść)
+- 40 g suszonych grzybów (kubek)
 - 1 cebula
 - 2 ząbki czosnku
 - 2kg buraków
