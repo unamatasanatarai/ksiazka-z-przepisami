@@ -15,7 +15,7 @@ tags: ["obiad", "święta"]
 - 40 g suszonych grzybów (kubek)
 - 1 cebula
 - 2 ząbki czosnku
-- 2kg buraków
+- 3, 4 buraki
 - 0.5 korzenia selera
 - 3 listki laurowe
 - 4 ziela angielskie
