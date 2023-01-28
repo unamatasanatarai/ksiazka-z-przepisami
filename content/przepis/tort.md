@@ -47,7 +47,7 @@ tags: ["ciasto", "deser"]
 
 ### Krem
 
-1. Jajka z cukrem ubij na parze (w małym garnku lub misce zawieszonej nad garnkiem z gotującą się wodą) aż nabierze lekko złotego koloru,
+1. Jajka z cukrem ubij na parze (w małym garnku lub misce zawieszonej nad garnkiem z gotującą się wodą), aż nabierze lekko złotego koloru,
 1. Odstaw do wystygnięcia,
 1. Masło utrzyj i dodawaj po 2 łyżki ubitych jajek z cukrem oraz wódkę,
 1. Ucieraj wszystko razem aż będzie jednolite.
