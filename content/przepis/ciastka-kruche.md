@@ -24,3 +24,8 @@ tags: ["ciastka"]
 1. Wszystkie składniki złącz
 1. Ugniataj ciasto
 1. Piecz w temperaturze 180°C
+
+## Dodatki?
+
+- Możesz dodać pokruszoną czekoladę.
+- Albo wiórki kokosowe
