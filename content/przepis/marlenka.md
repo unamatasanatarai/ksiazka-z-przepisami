@@ -29,9 +29,12 @@ tags: ["ciasto"]
 1. Odstaw na parę minut do ostygnięcia,
 1. Dodaj jajka,
 1. Stopniowo dodawaj resztę składników,
+1. Mieszaj aż będzie bardzo gęste/twarde.
 
-1. Przełóż ciasto na stolnicę i urabiaj,
+
+1. Przełóż ciasto na stół i urabiaj rękami,
 1. Rozwałkuj na płasko i piecz w temperaturze 180°C przez 5-8 minut
+
 
 1. Upieczone ciasto przekładaj miodem, dżemem, budyniem,
 1. Odstaw do lodówki na kilka godzin, może nawet na całą noc.
