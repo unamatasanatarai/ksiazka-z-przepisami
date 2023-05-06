@@ -14,7 +14,7 @@ tags: ["ciastka"]
 
 - 2 szklanki mąki
 - kostka masła
-- 2-3 łyżki cukru
+- 3-5 łyżek cukru
 - 2 jajka
 - 2 łyżeczki proszku do pieczenia
 - duża szczypta soli

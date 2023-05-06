@@ -4,7 +4,7 @@ date: 2022-12-19T11:53:10+01:00
 tags: ["obiad"]
 ---
 
-# Przepis na Zupa Ogórkowa
+# Przepis na Zupę Ogórkową
 
 - ⏲️  Czas przygotowania: 30 min
 - 🍳 Czas gotowania: 30 minut

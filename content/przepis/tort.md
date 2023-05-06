@@ -4,7 +4,7 @@ date: 2022-11-19T11:28:57+01:00
 tags: ["ciasto", "deser"]
 ---
 
-# Przepis na Tort
+# Przepis na Torta
 
 - ⏲️  Czas przygotowania: 30 min
 - 🍳 Czas pieczenia: 40 min

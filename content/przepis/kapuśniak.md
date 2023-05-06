@@ -1,7 +1,7 @@
 ---
 title: "Kapuśniak"
 date: 2023-05-06T12:09:02+02:00
-tags: ["zupa"]
+tags: ["zupa", "obiad"]
 ---
 
 # Przepis na Kapuśniak

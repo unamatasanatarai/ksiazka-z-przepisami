@@ -1,7 +1,7 @@
 ---
 title: "Barszcz Wigilijny"
 date: 2022-12-24T10:25:26+01:00
-tags: ["obiad", "święta"]
+tags: ["obiad", "święta", "zupa"]
 ---
 
 # Przepis na Barszcz Wigilijny

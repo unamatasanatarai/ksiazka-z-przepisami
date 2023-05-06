@@ -4,7 +4,7 @@ date: 2022-11-20T09:12:56+01:00
 tags: ["ciasto", "deser"]
 ---
 
-# Przepis na Metrowiec
+# Przepis na Metrowca
 
 - ⏲️  Czas przygotowania: 60 min
 - 🍳 Czas gotowania: 20 min

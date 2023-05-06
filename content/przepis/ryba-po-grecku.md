@@ -4,7 +4,7 @@ date: 2022-12-13T17:24:41+01:00
 tags: ["obiad", "święta"]
 ---
 
-# Przepis na Ryba Po Grecku
+# Przepis na Rybę Po Grecku
 
 - ⏲️  Czas przygotowania: 40 min
 - 🍳 Czas gotowania: 30 min
