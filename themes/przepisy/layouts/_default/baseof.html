@@ -32,10 +32,17 @@
   </section>
 
   <footer>
-    {{ if not .PublishDate.IsZero }}
-      {{ .PublishDate.Format "02-01-2006" }} :
-    {{ end }}
-    {{ .Site.Title }} : {{ .Site.BaseURL }}
+    <div class="footer-categories">
+      {{ range .Site.Taxonomies.tags.ByCount }}
+        <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      {{ end }}
+    </div>
+    <div class="footer-info">
+      {{ if not .PublishDate.IsZero }}
+        {{ .PublishDate.Format "02-01-2006" }} :
+      {{ end }}
+      {{ .Site.Title }} : <a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a>
+    </div>
   </footer>
 </body>
 
