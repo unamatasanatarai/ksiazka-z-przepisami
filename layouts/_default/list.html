@@ -1,0 +1,23 @@
+{{ define "title" }}
+{{ .Title }}
+{{ end }}
+
+{{ define "main" }}
+{{ .Content }}
+
+<div class="recipe-list">
+  {{ range .Pages }}
+    <a href="{{ .Permalink }}" class="recipe-card">
+      <div class="recipe-card-content">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Summary | truncate 100 }}</p>
+      </div>
+      <div class="recipe-card-arrow">
+        <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512">
+          <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M184 112l144 144-144 144"/>
+        </svg>
+      </div>
+    </a>
+  {{ end }}
+</div>
+{{ end }}

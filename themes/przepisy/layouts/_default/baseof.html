@@ -27,7 +27,7 @@
 
   <section>
     <article>
-      {{ .Content }}
+      {{ block "main" . }}{{ .Content }}{{ end }}
     </article>
   </section>
 
