@@ -215,9 +215,9 @@ footer {
 
 .top-nav {
   position: absolute;
-  top: 15px;
-  left: 15px;
-  right: 15px;
+  top: 10px;
+  left: 10px;
+  right: 10px;
   display: flex;
   justify-content: space-between;
   z-index: 100;
@@ -226,37 +226,88 @@ footer {
 .nav-btn {
   display: flex;
   align-items: center;
-  gap: 8px;
-  padding: 8px 16px;
-  background: rgba(255, 255, 255, 0.15);
-  backdrop-filter: blur(8px);
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 30px;
+  border-radius: 50%;
   color: #fff;
   text-decoration: none;
-  font-size: 13px;
-  font-weight: 300;
-  letter-spacing: 0.5px;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .nav-btn svg {
-  width: 18px;
-  height: 18px;
+  width: 20px;
+  height: 20px;
+  stroke-width: 32px;
 }
 
 .nav-btn span {
-  text-transform: uppercase;
-  font-size: 11px;
-  letter-spacing: 1px;
+  display: none; /* Hide text for a cleaner icon-only look as requested */
 }
 
 .nav-btn:hover {
-  background: rgba(255, 255, 255, 0.25);
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
-  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1) rotate(5deg);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* --- Responsive Web Design (RWD) --- */
+
+@media (max-width: 768px) {
+  header {
+    height: 160px;
+  }
+
+  header h1 {
+    font-size: 20px;
+    letter-spacing: 4px;
+    padding: 8px 0;
+  }
+
+  article {
+    padding: 15px;
+  }
+
+  .recipe-card {
+    padding: 15px;
+  }
+
+  .recipe-card-content h3 {
+    font-size: 16px;
+  }
+
+  footer {
+    padding: 30px 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    height: 120px;
+  }
+
+  header h1 {
+    font-size: 18px;
+    letter-spacing: 2px;
+  }
+
+  .footer-categories {
+    gap: 10px;
+  }
+
+  .footer-categories a {
+    font-size: 10px;
+  }
+
+  .taglist a {
+    font-size: 14px;
+    padding: 4px 10px;
+  }
 }
 
 @media print {
