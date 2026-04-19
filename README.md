@@ -4,7 +4,7 @@
   <p><strong>A modern, high-performance digital recipe book built with Hugo.</strong></p>
 
   <p>
-    <a href="https://github.com/unamatasanatarai/ksiazka-z-przepisami/actions/workflows/hugo.yml"><img src="https://github.com/unamatasanatarai/ksiazka-z-przepisami/actions/workflows/hugo.yml/badge.svg" alt="Deploy Hugo site to Pages"></a>
+    <a href="https://github.com/unamatasanatarai/hugo-recipe-book/actions/workflows/hugo.yml"><img src="https://github.com/unamatasanatarai/hugo-recipe-book/actions/workflows/hugo.yml/badge.svg" alt="Deploy Hugo site to Pages"></a>
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
     <img src="https://img.shields.io/badge/Tech-Hugo-FF4088?logo=hugo&logoColor=white" alt="Hugo">
     <img src="https://img.shields.io/badge/Language-Polish-white?logo=probot&logoColor=red" alt="Content Language: Polish">
@@ -49,8 +49,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/unamatasanatarai/ksiazka-z-przepisami.git
-   cd ksiazka-z-przepisami
+   git clone https://github.com/unamatasanatarai/hugo-recipe-book.git
+   cd hugo-recipe-book
    ```
 
 2. **Run the development server**:

@@ -1,4 +1,4 @@
-baseURL = "https://unamatasanatarai.github.io/ksiazka-z-przepisami"
+baseURL = "https://unamatasanatarai.github.io/hugo-recipe-book"
 languageCode = "pl-pl"
 defaultContentLanguage = "pl"
 title = "Książka z przepisami"
