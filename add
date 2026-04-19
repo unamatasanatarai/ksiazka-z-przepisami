@@ -1,12 +1,34 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
+# Recipe Creation Utility
+# This script streamlines the workflow of adding new recipes to the Hugo-based book.
+# It handles filename normalization and opens the new file in the default editor.
 
-[[ -z "$*" ]] && echo "usage: ./add nazwa potrawy" && exit 1
+# Display help message
+show_help() {
+    echo "Usage: $0 [recipe name]"
+    echo ""
+    echo "Example: $0 Apple Pie"
+    echo "This will create 'content/przepis/apple-pie.md' and open it for editing."
+}
 
-file="$*"
-file="${file,,}"
-file="${file// /-}"
+# Check for help flag or empty arguments
+if [[ "${1:-}" == "-h" ]] || [[ "${1:-}" == "--help" ]] || [[ -z "$*" ]]; then
+    show_help
+    exit 0
+fi
 
-hugo new "przepis/$file.md"
-exec "$EDITOR" "content/przepis/$file.md"
+# Normalize input: lowercase and replace spaces with hyphens
+recipe_name="$*"
+slug="${recipe_name,,}"
+slug="${slug// /-}"
+
+target_file="przepis/$slug.md"
+
+echo "Creating new recipe: $recipe_name..."
+
+# Generate the new content using Hugo archetypes
+hugo new "$target_file"
+
+# Open the new file in the system's default editor (or vi as fallback)
+${EDITOR:-vi} "content/$target_file"
